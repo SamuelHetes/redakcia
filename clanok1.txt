@@ -2,3 +2,7 @@ Autor: Samuel Heteš
 Nazov: Respirátor
 Datum: 11.5.2021
 ----
+Najúčinejší respirátor je FFP3.
+Potrebujeme ho v interiéri.
+Účinný na rôzne Covid-19 mutácie.
+----
